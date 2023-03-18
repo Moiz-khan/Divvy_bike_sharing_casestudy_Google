@@ -3,3 +3,4 @@ This is a capstone project of Google Data Analytics specialization. Skills Data 
 
 Dashboard LINK (https://public.tableau.com/app/profile/moiz4077/viz/DavvyCycling-Dashboard/Dashboard1)
 ![recommendations](https://user-images.githubusercontent.com/41229568/226106400-75c7d92a-f08b-4f3b-ab4b-f5716cc6fbbc.PNG)
+![dashboard](https://user-images.githubusercontent.com/41229568/226106476-05653ae9-3779-4ead-8884-9b92ec974ee3.PNG)
